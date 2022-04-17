@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "213392144770",
+    "project_id": "coassingment",
+    "storage_bucket": "coassingment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213392144770:android:a95a6075ee79bcbdc5b79b",
+        "android_client_info": {
+          "package_name": "CO2509.com.weather_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213392144770-ec03fvhvk1jf1lj1t6rnt9q3v319365s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaU_56YptS2yMfYwf8BSnkT6vlKsiazcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213392144770-ec03fvhvk1jf1lj1t6rnt9q3v319365s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213392144770:android:28f7371ae35a022dc5b79b",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213392144770-ec03fvhvk1jf1lj1t6rnt9q3v319365s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaU_56YptS2yMfYwf8BSnkT6vlKsiazcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213392144770-ec03fvhvk1jf1lj1t6rnt9q3v319365s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
